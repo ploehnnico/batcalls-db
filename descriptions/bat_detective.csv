@@ -1,0 +1,49 @@
+Filename,species,echolocation
+01 Constant Frequency Tone.wav,skip,echolocation
+02 Frequency Modulated Sweep (Slow) Slow FM.wav,skip,echolocation
+03 Frequency Modulated Sweep (Fast) Fast FM.wav,skip,echolocation
+04 Frequency Modulated Sweep Ending At Near Constant Frequency Fm-Cf.wav,skip,echolocation
+05 Noctule 1.wav,Nyctalusnoctula,echolocation
+06 Noctule 2.wav,Nyctalusnoctula,echolocation
+07 Pipistrelle 1.wav,Pipistrelluspipistrellus,echolocation
+08 Pipistrelle 2.wav,Pipistrelluspipistrellus,echolocation
+09 Serotine 1.wav,Eptesicusserotinus,echolocation
+10 Serotine 2.wav,Eptesicusserotinus,echolocation
+11 Brandt_s Bat 1.wav,Myotisbrandtii,echolocation
+12 Serotine 3.wav,Eptesicusserotinus,echolocation
+13 Pipistrelle And Daubenton 1.wav,Pipistrelluspipistrellus,echolocation
+14 Pipistrelle And Daubenton 2.wav,Pipistrelluspipistrellus,echolocation
+15 Pipistrelle 3.wav,Pipistrelluspipistrellus,echolocation
+16 Pipistrelle 4.wav,Pipistrelluspipistrellus,echolocation
+17 Pipistrelle 5.wav,Pipistrelluspipistrellus,echolocation
+18 Pipistrelle 6.wav,Pipistrelluspipistrellus,echolocation
+19 Pipistrelle 7.wav,Pipistrelluspipistrellus,echolocation
+20 Pipistrelle 8.wav,Pipistrelluspipistrellus,echolocation
+21 Pipistrelle 9.wav,Pipistrelluspipistrellus,echolocation
+22 Pipistrelle 10.wav,Pipistrelluspipistrellus,echolocation
+23 Pipistrelle 11.wav,Pipistrelluspipistrellus,echolocation
+24 Pipistrelle 12.wav,Pipistrelluspipistrellus,echolocation
+25 Pipistrelle 13.wav,Pipistrelluspipistrellus,echolocation
+26 Pipistrelle 14.wav,Pipistrelluspipistrellus,echolocation
+27 Brown Long-Eared 1.wav,Plecotusauritus,echolocation
+28 Brown Long-Eared 2.wav,Plecotusauritus,echolocation
+29 Serotine 4.wav,Eptesicusserotinus,echolocation
+30 Serotine 5.wav,Eptesicusserotinus,echolocation
+31 Serotine And Noctule.wav,Eptesicusserotinus,echolocation
+32 Leisler_s.wav,Nyctalusleisleri,echolocation
+33 Barbastrelle.wav,Barbastellabarbastellus,echolocation
+34 Pipistrelle 17.wav,Pipistrelluspipistrellus,echolocation
+35 Brandt_s 2.wav,Myotisbrandtii,echolocation
+36 Daubenton Plus Pipistrelle.wav,Myotisdaubentonii,echolocation
+37 Natterer_s Two Individuals.wav,Myotisnattereri,echolocation
+38 Natterer_s Group.wav,Myotisnattereri,echolocation
+39 Bechstein_s.wav,Myotisbechsteinii,echolocation
+40 Greater Horseshoe.wav,Rhinolophusferrumequinum,echolocation
+41 Greater Horseshoe Group.wav,Rhinolophusferrumequinum,echolocation
+42 Greater Horseshoe 2.wav,Rhinolophusferrumequinum,echolocation
+43 Greater Horseshoe 3.wav,Rhinolophusferrumequinum,echolocation
+44 Lesser Horseshoe Individual.wav,Rhinolophushipposideros,echolocation
+45 Lesser Horseshoe Group.wav,Rhinolophushipposideros,echolocation
+46 Soprano Pipstrelle.wav,Pipistrelluspipistrellus,echolocation
+47 Pipistrelle Swarm At Dawn 30m From Roost.wav,Pipistrelluspipistrellus,echolocation
+48 Pipistrelle Swarm At Dawn 5m From Roost.wav,Pipistrelluspipistrellus,echolocation

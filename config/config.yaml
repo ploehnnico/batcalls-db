@@ -1,0 +1,24 @@
+DBPATH: '../batcalls_db/db/compare/newtest.db'
+IMPORT:
+  FOLDER: "/mnt/c/Users/nicop/bachelorarbeit/daten/Fledermausrufe/Auswahl_Skiba/"
+  NAME: "skiba"
+  CSVPATH: "descriptions/skiba-with-comments.csv"
+  SKIP: "skip"
+PROCESSING:
+  METHOD: 1
+  SR: 44100
+  BANDPASS: True
+  LOWCUT: 1500
+  HIGHCUT: 12000
+  TARGETLENGTH: 10
+  ROUND: True
+EXTRACTION:
+  METHOD: 0
+  THRESHOLD: 0.1
+  POS_OFFSET: 2410
+  NEG_OFFSET: 2000
+  ANALENGTH: 30
+STFT:
+  NFFT: 512
+  NOVERLAP: 480
+  NPERSEG: 512
